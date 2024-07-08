@@ -1,5 +1,5 @@
 1. Для начала нужно установить необоходимые библиотеки
-- pip install requirements.txt
+- pip install -r requirements.txt
 
 2. Запуск кода
 python main.py 
